@@ -1,6 +1,6 @@
 
  
-# Manthan Hackathon (INTL-IVA-06) [Novus Neurons]
+# Object-Detection
 
 Object detection model.
 
